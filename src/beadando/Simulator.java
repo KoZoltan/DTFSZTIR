@@ -2,7 +2,7 @@ package beadando;
 
 import java.util.*;
 
-public class Simulator {
+
 
 
 
@@ -27,7 +27,7 @@ public class Simulator {
 	    T_TIMEWINDOW[] Cal;
 	}
 
-	public class Main {
+	public class Simulator {
 	    static final int NOBJF = 4;
 
 	    public static void main(String[] args) {
@@ -290,4 +290,4 @@ public class Simulator {
 	}
 	
 	
-}
+
